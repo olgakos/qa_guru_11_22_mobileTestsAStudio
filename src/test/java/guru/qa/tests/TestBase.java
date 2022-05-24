@@ -22,7 +22,7 @@ public class TestBase {
         addListener("AllureSelenide", new AllureSelenide());
 
         Configuration.browser = BrowserstackMobileDriver.class.getName();
-        Configuration.browserSize = null; //важно: "0" т.к. это длz мобильного приложения
+        Configuration.browserSize = null; //важно: "0" т.к. это для мобильного приложения
     }
 
     @BeforeEach

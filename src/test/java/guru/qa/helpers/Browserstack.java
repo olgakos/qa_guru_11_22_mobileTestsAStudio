@@ -8,10 +8,10 @@ public class Browserstack {
     // todo hide with Owner
     // DO NOT STORE CREDENTIALS, ONLY FOR EXAMPLE
     public static String
-            //browserstackLogin = "tpuretest_lSVWc2", //! Stas
-            //browserstackPassword = "Ggd5nW19cyeGseGGn2m6"; //! Stas
-             browserstackLogin = "olga_ouHam9", //!
-            browserstackPassword = "iDs7wY8LzQqGhHiJ1369"; //!
+            //browserstackLogin = "tpuretest_lSVWc2", //! demo Stas
+            //browserstackPassword = "Ggd5nW19cyeGseGGn2m6"; //! demo Stas
+            browserstackLogin = "olga_ouHam9", //! my
+            browserstackPassword = "iDs7wY8LzQqGhHiJ1369"; //! my
 
 
     public static String videoUrl(String sessionId) {
