@@ -43,7 +43,6 @@
 <p align="center">
   <img title="Screenshot" src="img/last_screen.png" width="300" alt="Screenshot">
 </p>
-
 ## :watermelon: Видео прохождения тестов
 К каждому тесту прилагается автоматически сгенерированное видео. Пример:
 <p align="center">
